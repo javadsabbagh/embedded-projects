@@ -1,4 +1,4 @@
 embedded-projects
 =================
 
-I have fired a ground up project for an embedded system. Actually main purpose it to build fully customized software section for an embedded system. e.g CubieBoard 2
+I have lauched this repository for deveeloping some embedded systems ideas. Actually, main purpose of it is to build fully customized softwares for an embedded system. e.g CubieBoard 2.
